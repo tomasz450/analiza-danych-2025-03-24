@@ -1,8 +1,10 @@
 name,location,year,kilometers_driven,fuel_type,transmission,owner_type,mileage,engine,power,seats,price
+Maruti Wagon R LXI CNG,Mumbai,2010,72000,CNG,0,First,26.6 km/kg,998,58.16,5.0,1.75
 Hyundai Creta 1.6 CRDi SX Option,Pune,2015,41000,Diesel,0,First,19.67 kmpl,1582,126.2,5.0,12.5
-Honda Jazz V,Chennai,2011,46000,Petrol,0,First,13 km/kg,1199,88.7,5.0,4.5
+Honda Jazz V,Chennai,2011,46000,Petrol,0,First,18.2 kmpl,1199,88.7,5.0,4.5
 Maruti Ertiga VDI,Chennai,2012,87000,Diesel,0,First,20.77 kmpl,1248,88.76,7.0,6.0
 Audi A4 New 2.0 TDI Multitronic,Coimbatore,2013,40670,Diesel,1,Second,15.2 kmpl,1968,140.8,5.0,17.74
+Hyundai EON LPG Era Plus Option,Hyderabad,2012,75000,LPG,0,First,21.1 km/kg,814,55.2,5.0,2.35
 Nissan Micra Diesel XV,Jaipur,2013,86999,Diesel,0,First,23.08 kmpl,1461,63.1,5.0,3.5
 Toyota Innova Crysta 2.8 GX AT 8S,Mumbai,2016,36000,Diesel,1,First,11.36 kmpl,2755,171.5,8.0,17.5
 Volkswagen Vento Diesel Comfortline,Pune,2013,64430,Diesel,0,First,20.54 kmpl,1598,103.6,5.0,5.2
@@ -23,7 +25,7 @@ Audi A6 2011-2015 35 TFSI Technology,Mumbai,2015,55985,Petrol,1,First,13.53 kmpl
 Hyundai i20 1.2 Magna,Kolkata,2010,45807,Petrol,0,First,18.5 kmpl,1197,80.0,5.0,1.87
 Volkswagen Vento Petrol Highline AT,Kolkata,2010,33000,Petrol,1,First,14.4 kmpl,1598,103.6,5.0,2.85
 Honda City Corporate Edition,Mumbai,2012,51920,Petrol,0,First,16.8 kmpl,1497,116.3,5.0,4.25
-Nissan Micra Diesel XV,Hyderabad,2012,54000,Diesel,0,First,16.48 km/kg,1461,63.1,5.0,4.25
+Nissan Micra Diesel XV,Hyderabad,2012,54000,Diesel,0,First,23.08 kmpl,1461,63.1,5.0,4.25
 Maruti Alto K10 2010-2014 VXI,Hyderabad,2013,54000,Petrol,0,Second,20.92 kmpl,998,67.1,5.0,2.75
 Honda WRV i-VTEC VX,Kochi,2018,37430,Petrol,0,First,17.5 kmpl,1199,88.7,5.0,9.9
 Toyota Innova 2.5 V Diesel 7-seater,Mumbai,2007,262000,Diesel,0,Fourth & Above,12.8 kmpl,2494,102.0,7.0,4.0
@@ -55,7 +57,7 @@ Hyundai Grand i10 Sportz,Chennai,2015,54000,Petrol,0,Third,18.9 kmpl,1197,82.0,5
 Volkswagen Vento 2013-2015 1.6 Comfortline,Kolkata,2015,39000,Petrol,0,First,15.04 kmpl,1598,103.2,5.0,3.99
 Renault KWID RXT,Kochi,2017,16542,Petrol,0,First,25.17 kmpl,799,53.3,5.0,3.3
 Hyundai i10 Asta,Kolkata,2010,32000,Petrol,0,First,20.36 kmpl,1197,78.9,5.0,2.07
-Nissan X-Trail SLX AT,Hyderabad,2010,121812,Diesel,1,First,9.49 km/kg,1995,147.6,5.0,7.75
+Nissan X-Trail SLX AT,Hyderabad,2010,121812,Diesel,1,First,13.29 kmpl,1995,147.6,5.0,7.75
 Maruti Zen Estilo VXI BSIII,Hyderabad,2010,39300,Petrol,0,First,18.2 kmpl,998,67.1,5.0,2.25
 Toyota Innova Crysta 2.4 GX MT 8S,Mumbai,2017,22000,Diesel,0,First,13.68 kmpl,2393,147.8,8.0,16.5
 Ford Figo Diesel Titanium,Bangalore,2010,72000,Diesel,0,First,20.0 kmpl,1399,68.0,5.0,2.75
@@ -120,6 +122,7 @@ Maruti Wagon R LXI BS IV,Pune,2011,43874,Petrol,0,First,18.9 kmpl,998,67.1,5.0,2
 Tata Nano XTA,Coimbatore,2017,32684,Petrol,1,First,21.9 kmpl,624,37.48,4.0,3.23
 Mahindra Scorpio VLX,Kolkata,2014,42000,Diesel,0,First,12.05 kmpl,2179,120.0,8.0,7.75
 Mercedes-Benz New C-Class 200 K AT,Kolkata,2009,28352,Petrol,1,First,11.7 kmpl,1796,178.0,5.0,9.35
+Maruti Wagon R LXI CNG,Pune,2013,89900,CNG,0,First,26.6 km/kg,998,58.16,5.0,3.25
 Honda CR-V 2.4 MT,Bangalore,2007,47700,Petrol,0,Second,10.8 kmpl,2354,152.0,5.0,5.25
 Volkswagen Vento 1.5 TDI Comfortline AT,Pune,2015,55000,Diesel,1,First,21.21 kmpl,1498,103.2,5.0,7.25
 Maruti Ciaz VXi Plus,Kochi,2017,44285,Petrol,0,First,20.73 kmpl,1373,91.1,5.0,7.47
@@ -311,6 +314,7 @@ Honda City ZX GXi,Kolkata,2008,40000,Petrol,0,First,17.7 kmpl,1497,78.0,5.0,1.8
 Audi A6 2011-2015 2.0 TDI Premium Plus,Kochi,2014,51495,Diesel,1,First,17.68 kmpl,1968,174.33,5.0,21.95
 BMW 6 Series 640d Gran Coupe,Mumbai,2011,30000,Diesel,1,First,9.52 kmpl,2993,313.0,4.0,49.0
 Audi Q7 45 TDI Quattro Technology,Coimbatore,2017,97430,Diesel,1,First,14.75 kmpl,2967,245.0,7.0,62.67
+Maruti Zen Estilo LXI Green (CNG),Pune,2008,42496,CNG,0,First,26.3 km/kg,998,67.1,5.0,1.4
 Hyundai i20 1.4 CRDi Asta,Pune,2012,83000,Diesel,0,First,23.0 kmpl,1396,90.0,5.0,5.5
 Hyundai i10 Sportz AT,Bangalore,2009,37000,Petrol,1,Third,16.95 kmpl,1197,78.9,5.0,2.95
 Honda Jazz 1.2 V CVT i VTEC,Kochi,2016,28503,Petrol,1,First,19.0 kmpl,1199,88.7,5.0,6.86
@@ -419,6 +423,7 @@ Maruti Alto 800 LXI,Kochi,2016,34267,Petrol,0,First,22.74 kmpl,796,47.3,5.0,3.74
 Volvo V40 D3,Bangalore,2015,33000,Diesel,1,Second,16.8 kmpl,1984,150.0,5.0,22.0
 Maruti Wagon R LXI BSII,Ahmedabad,2007,55100,Petrol,0,First,18.9 kmpl,998,67.1,5.0,1.45
 Honda City ZX GXi,Kolkata,2008,40000,Petrol,0,First,17.7 kmpl,1497,78.0,5.0,2.0
+Maruti Eeco 5 STR With AC Plus HTR CNG,Kochi,2017,31841,CNG,0,First,15.1 km/kg,1196,73.0,5.0,4.7
 Chevrolet Enjoy 1.4 LS 8,Kolkata,2014,15000,Petrol,0,First,13.7 kmpl,1399,98.79,8.0,3.75
 Mahindra Bolero ZLX,Coimbatore,2016,82756,Diesel,0,First,15.96 kmpl,2523,62.1,7.0,7.7
 Hyundai EON D Lite,Hyderabad,2014,20600,Petrol,0,First,21.1 kmpl,814,55.2,5.0,2.6
@@ -806,6 +811,7 @@ Ford Figo Diesel Titanium,Pune,2015,92000,Diesel,0,First,20.0 kmpl,1399,68.05,5.
 Maruti Swift ZXI,Coimbatore,2014,33372,Petrol,0,Second,18.6 kmpl,1197,85.8,5.0,6.21
 Hyundai Grand i10 CRDi Magna,Kochi,2016,52625,Diesel,0,First,24.0 kmpl,1120,70.0,5.0,4.58
 Mahindra Xylo H4,Chennai,2016,215000,Diesel,0,First,14.02 kmpl,2179,118.3,7.0,7.5
+Maruti Alto Green LXi (CNG),Delhi,2012,65537,CNG,0,First,26.83 km/kg,796,38.4,5.0,2.1
 Hyundai i10 Magna 1.1,Coimbatore,2014,60138,Petrol,0,First,19.81 kmpl,1086,68.05,5.0,4.09
 Skoda Octavia Elegance 2.0 TDI AT,Mumbai,2014,84000,Diesel,1,First,19.3 kmpl,1968,141.0,5.0,10.75
 BMW X5 2014-2019 xDrive 30d Design Pure Experience 7 Seater,Mumbai,2014,47000,Diesel,1,First,15.97 kmpl,2993,258.0,7.0,41.5
@@ -859,6 +865,7 @@ Maruti Wagon R LXI,Ahmedabad,2015,51530,Petrol,0,First,18.9 kmpl,998,67.1,5.0,3.
 Maruti Swift Dzire ZDI,Bangalore,2014,25789,Diesel,0,Second,23.4 kmpl,1248,74.0,5.0,6.85
 Honda Amaze S i-Dtech,Delhi,2015,48000,Diesel,0,First,25.8 kmpl,1498,98.6,5.0,4.5
 Maruti Swift ZDI,Delhi,2012,52000,Diesel,0,First,28.4 kmpl,1248,74.0,5.0,3.55
+Hyundai Accent Executive CNG,Hyderabad,2010,95637,CNG,0,Second,13.2 km/kg,1495,93.7,5.0,1.9
 Mahindra Scorpio LX 2.6 Turbo,Hyderabad,2008,131000,Diesel,0,First,10.5 kmpl,2609,120.0,7.0,3.6
 Mercedes-Benz E-Class E250 CDI Avantgrade,Kochi,2015,42076,Diesel,1,First,13.0 kmpl,2143,201.1,5.0,21.8
 Toyota Fortuner 4x2 Manual,Mumbai,2012,76000,Diesel,0,Second,13.0 kmpl,2982,168.5,7.0,13.5
@@ -898,6 +905,7 @@ Maruti Ciaz 1.4 Delta,Ahmedabad,2017,6006,Petrol,0,First,20.73 kmpl,1373,91.1,5.
 Mercedes-Benz New C-Class C 200 Avantgarde Edition C,Kochi,2011,71703,Petrol,1,First,14.74 kmpl,1991,181.03,5.0,9.14
 Honda Amaze SX i-VTEC,Hyderabad,2016,33000,Petrol,0,First,17.8 kmpl,1198,86.7,5.0,6.5
 Renault Duster 85PS Diesel RxL,Jaipur,2015,91000,Diesel,0,First,19.87 kmpl,1461,83.8,5.0,5.75
+Maruti Wagon R LXI LPG BSIV,Hyderabad,2012,72000,LPG,0,First,26.2 km/kg,998,58.2,5.0,2.85
 Volkswagen Polo Petrol Highline 1.2L,Kolkata,2011,43000,Petrol,0,Second,16.47 kmpl,1198,73.9,5.0,2.1
 Hyundai Creta 1.6 SX Plus Diesel,Coimbatore,2017,63770,Diesel,0,First,19.67 kmpl,1582,126.2,5.0,13.55
 Jaguar XF Diesel,Kolkata,2012,43510,Diesel,1,First,14.74 kmpl,2993,270.9,5.0,20.5
@@ -948,6 +956,7 @@ Hyundai Accent GLE,Ahmedabad,2010,58000,Petrol,0,Second,13.2 kmpl,1495,94.0,5.0,
 BMW 5 Series 520d Luxury Line,Mumbai,2012,61240,Diesel,1,First,22.48 kmpl,1995,190.0,5.0,17.5
 Maruti Alto K10 2010-2014 VXI,Chennai,2011,91211,Petrol,0,First,20.92 kmpl,998,67.1,5.0,2.1
 Audi Q3 2012-2015 2.0 TDI Quattro Premium Plus,Bangalore,2013,84000,Diesel,1,First,15.73 kmpl,1968,174.33,5.0,17.75
+Maruti Wagon R LXI DUO BSIII,Mumbai,2008,64226,LPG,0,First,17.3 km/kg,1061,57.5,5.0,1.45
 Toyota Corolla H4,Bangalore,2005,67000,Petrol,1,Second,11.3 kmpl,1794,125.0,5.0,2.45
 Volvo XC60 D5,Pune,2011,106976,Diesel,1,First,13.5 kmpl,2400,215.0,5.0,13.8
 Honda Jazz 1.5 VX i DTEC,Kolkata,2016,27210,Diesel,0,First,27.3 kmpl,1498,98.6,5.0,5.85
@@ -1094,6 +1103,7 @@ Maruti Ciaz VDi Plus SHVS,Jaipur,2017,38282,Diesel,0,First,28.09 kmpl,1248,88.5,
 Mercedes-Benz New C-Class C 220 CDI Avantgarde,Delhi,2014,64000,Diesel,1,First,19.27 kmpl,2143,170.0,5.0,15.65
 Fiat Avventura MULTIJET Emotion,Mumbai,2015,32000,Diesel,0,First,20.5 kmpl,1248,91.72,5.0,5.65
 Mercedes-Benz E-Class 2009-2013 E 250 Elegance,Bangalore,2010,83000,Petrol,1,First,10.93 kmpl,2497,204.0,5.0,16.5
+Maruti Zen Estilo LXI Green (CNG),Ahmedabad,2011,76000,CNG,0,First,26.3 km/kg,998,67.1,5.0,2.0
 Volkswagen Vento Petrol Highline,Pune,2012,67200,Petrol,0,First,15.04 kmpl,1598,103.6,5.0,3.9
 BMW 3 Series 320d Luxury Line,Jaipur,2013,62655,Diesel,1,First,18.88 kmpl,1995,184.0,5.0,14.5
 BMW 5 Series 2013-2017 530d M Sport,Bangalore,2015,16900,Diesel,1,First,14.69 kmpl,2993,258.0,5.0,44.0
@@ -1174,6 +1184,7 @@ Honda Jazz 1.2 VX i VTEC,Mumbai,2016,15399,Petrol,0,First,18.7 kmpl,1199,88.7,5.
 Volkswagen Polo Petrol Highline 1.2L,Bangalore,2012,75000,Petrol,0,Second,16.47 kmpl,1198,73.9,5.0,3.95
 Honda City i-VTEC S,Delhi,2010,76752,Petrol,0,First,17.4 kmpl,1497,117.3,5.0,3.57
 Honda City ZX GXi,Mumbai,2005,56000,Petrol,0,Second,17.7 kmpl,1497,78.0,5.0,1.25
+Maruti Wagon R LXI CNG,Pune,2015,70000,CNG,0,First,26.2 km/kg,998,58.2,5.0,3.65
 Honda CR-V 2.4L 4WD AT AVN,Kolkata,2013,46125,Petrol,1,Second,12.0 kmpl,2354,187.4,5.0,12.5
 BMW 5 Series 2013-2017 520d Luxury Line,Ahmedabad,2014,35000,Diesel,1,Second,18.12 kmpl,1995,190.0,5.0,23.0
 Ambassador Classic Nova Diesel,Chennai,2003,80000,Diesel,0,Third,12.8 kmpl,1489,35.5,5.0,1.35
@@ -1224,6 +1235,7 @@ Audi Q3 2.0 TDI Quattro,Kolkata,2013,45000,Diesel,1,First,17.32 kmpl,1968,184.0,
 Maruti Alto K10 2010-2014 VXI,Hyderabad,2012,46004,Petrol,0,First,20.92 kmpl,998,67.1,5.0,2.4
 Tata Indigo eCS LX BSIV,Chennai,2011,124000,Diesel,0,First,23.03 kmpl,1396,69.0,5.0,2.3
 Audi A4 2.0 TDI 177 Bhp Premium Plus,Kochi,2014,77395,Diesel,1,First,17.11 kmpl,1968,174.33,5.0,14.35
+Maruti Alto 800 2016-2019 CNG LXI,Mumbai,2018,10600,CNG,0,First,33.44 km/kg,796,40.3,4.0,3.5
 Honda City i-VTEC CVT VX,Kochi,2018,22974,Petrol,1,First,18.0 kmpl,1497,117.3,5.0,11.97
 Toyota Fortuner 2.8 2WD MT,Ahmedabad,2015,65012,Diesel,0,First,14.24 kmpl,2755,174.5,7.0,18.9
 Hyundai Grand i10 Sportz,Ahmedabad,2017,17125,Petrol,0,First,18.9 kmpl,1197,82.0,5.0,5.4
@@ -1274,6 +1286,7 @@ Honda City 1.3 EXI,Ahmedabad,2002,85000,Petrol,0,First,13.0 kmpl,1343,90.0,5.0,1
 BMW 3 Series 320d Luxury Line,Kochi,2013,37613,Diesel,1,First,22.69 kmpl,1995,190.0,5.0,13.95
 Ford Fiesta 1.4 Duratec EXI,Chennai,2007,100000,Petrol,0,First,16.6 kmpl,1388,68.0,5.0,1.6
 Tata Nano XTA,Coimbatore,2016,5240,Petrol,1,First,21.9 kmpl,624,37.48,4.0,3.6
+Maruti Eeco 5 STR With AC Plus HTR CNG,Mumbai,2018,20000,CNG,0,First,15.1 km/kg,1196,73.0,5.0,4.5
 Maruti Ignis 1.2 Delta,Coimbatore,2019,16862,Petrol,0,First,20.89 kmpl,1197,81.8,5.0,6.06
 Maruti Swift Dzire ZXi,Coimbatore,2013,59254,Petrol,0,Second,17.5 kmpl,1298,85.8,5.0,5.29
 Ford Ecosport 1.5 DV5 MT Titanium,Jaipur,2014,60000,Diesel,0,First,22.7 kmpl,1498,89.84,5.0,5.75
@@ -1281,6 +1294,7 @@ Maruti Swift Dzire VXI,Coimbatore,2014,47674,Petrol,0,First,19.1 kmpl,1197,85.8,
 Hyundai i10 Sportz AT,Kochi,2014,61517,Petrol,1,First,16.95 kmpl,1197,78.9,5.0,4.39
 Mahindra XUV500 W6 2WD,Coimbatore,2016,62946,Diesel,0,First,15.1 kmpl,2179,140.0,7.0,11.05
 Hyundai i20 Magna 1.4 CRDi,Delhi,2015,66823,Diesel,0,Second,22.54 kmpl,1396,88.73,5.0,4.83
+Maruti Wagon R CNG LXI,Pune,2013,79494,CNG,0,First,33.54 km/kg,998,67.04,5.0,2.96
 Hyundai i20 Asta 1.4 CRDi,Chennai,2012,107000,Diesel,0,Second,21.27 kmpl,1396,88.76,5.0,4.5
 BMW 7 Series 730Ld,Mumbai,2011,55000,Diesel,1,Second,16.46 kmpl,2993,258.0,5.0,19.5
 Skoda Rapid 1.6 MPI AT Style Plus,Mumbai,2017,24000,Petrol,1,First,14.3 kmpl,1598,103.52,5.0,8.75
@@ -1304,6 +1318,7 @@ Toyota Innova 2.5 G (Diesel) 7 Seater BS IV,Ahmedabad,2013,60000,Diesel,0,First,
 Hyundai Santro Xing GL,Kochi,2011,20842,Petrol,0,First,0.0 kmpl,1086,62.0,5.0,2.78
 Hyundai Santa Fe 4WD AT,Chennai,2014,110000,Diesel,1,First,13.01 kmpl,2199,194.3,7.0,14.4
 Mercedes-Benz New C-Class C250 Avantgarde,Mumbai,2011,45000,Petrol,1,Second,11.74 kmpl,1796,186.0,5.0,13.5
+Maruti Wagon R LXI CNG,Mumbai,2014,40000,CNG,0,Second,26.6 km/kg,998,58.16,5.0,3.15
 Maruti Alto LXi,Coimbatore,2012,49008,Petrol,0,First,19.7 kmpl,796,46.3,5.0,2.88
 Maruti Alto 800 2016-2019 LXI,Kolkata,2016,31000,Petrol,0,First,24.7 kmpl,796,47.3,5.0,2.15
 Nissan Sunny 2011-2014 XV,Pune,2013,8000,Petrol,0,First,16.95 kmpl,1498,97.7,5.0,3.75
@@ -1514,6 +1529,7 @@ Honda City i VTEC SV,Pune,2016,27300,Petrol,0,First,17.8 kmpl,1497,117.3,5.0,7.0
 Mercedes-Benz New C-Class C 200 Avantgarde Edition C,Kochi,2011,29813,Petrol,1,Second,14.74 kmpl,1991,181.03,5.0,11.5
 Maruti Wagon R LX BS IV,Pune,2011,71000,Petrol,0,First,20.51 kmpl,998,67.04,5.0,2.6
 Hyundai Verna 1.6 CRDI,Kolkata,2014,32000,Diesel,0,First,22.32 kmpl,1582,126.3,5.0,4.3
+Maruti Ertiga VXI CNG,Mumbai,2017,19234,CNG,0,First,17.5 km/kg,1373,80.46,7.0,8.35
 Volkswagen Tiguan 2.0 TDI Highline,Jaipur,2017,50510,Diesel,1,First,17.06 kmpl,1968,141.0,5.0,24.9
 BMW X1 sDrive 20d Exclusive,Pune,2011,102000,Diesel,1,First,15.06 kmpl,1995,177.0,5.0,13.75
 Hyundai Grand i10 1.2 CRDi Sportz Option,Kolkata,2014,42277,Diesel,0,First,24.0 kmpl,1186,73.97,5.0,3.85
@@ -1717,6 +1733,7 @@ Hyundai Verna 1.6 SX VTVT (O),Pune,2013,21107,Petrol,0,First,17.1 kmpl,1591,121.
 Honda City V MT,Mumbai,2014,56000,Petrol,0,First,16.8 kmpl,1497,116.3,5.0,5.75
 Hyundai Creta 1.6 SX Plus Dual Tone Petrol,Coimbatore,2017,19623,Petrol,0,First,15.29 kmpl,1591,121.3,5.0,13.12
 Mahindra XUV500 W8 2WD,Kochi,2014,70963,Diesel,0,First,15.1 kmpl,2179,140.0,7.0,7.83
+Maruti Wagon R LXI CNG,Mumbai,2013,25755,CNG,0,First,26.6 km/kg,998,58.16,5.0,3.15
 Toyota Innova 2.5 V Diesel 7-seater,Mumbai,2013,51450,Diesel,0,First,12.8 kmpl,2494,102.0,7.0,10.4
 Maruti Swift VDI,Pune,2012,75000,Diesel,0,First,22.9 kmpl,1248,74.0,5.0,4.35
 Maruti Wagon R VXI AMT,Coimbatore,2017,37832,Petrol,1,First,22.5 kmpl,998,67.0,5.0,5.23
@@ -1846,8 +1863,10 @@ Toyota Qualis FS B3,Bangalore,2002,63000,Diesel,0,Third,13.1 kmpl,2446,75.0,10.0
 BMW 5 Series 2007-2010 525d Sedan,Delhi,2012,49000,Diesel,1,Second,16.73 kmpl,2495,218.0,5.0,15.5
 Mitsubishi Pajero 2.8 SFX BSIII Dual Tone,Kochi,2013,48272,Diesel,0,First,10.5 kmpl,2835,116.9,6.0,11.82
 Toyota Corolla H2,Delhi,2008,63000,Petrol,0,First,13.4 kmpl,1794,125.0,5.0,2.05
+Maruti Wagon R LXI CNG,Ahmedabad,2016,77000,CNG,0,First,26.6 km/kg,998,58.16,5.0,3.3
 Maruti Omni E MPI STD BS IV,Mumbai,2013,11734,Petrol,0,First,16.8 kmpl,796,34.2,8.0,2.25
 Audi A6 2011-2015 2.0 TDI,Kochi,2014,62012,Diesel,1,First,17.68 kmpl,1968,174.33,5.0,20.12
+Hyundai Xcent 1.2 Kappa S Option CNG,Chennai,2017,46000,CNG,0,First,25.0 km/kg,1197,81.86,5.0,4.95
 Honda Jazz 1.5 S i DTEC,Coimbatore,2016,45449,Diesel,0,First,27.3 kmpl,1498,98.6,5.0,7.48
 Mercedes-Benz E-Class 200 Kompressor Elegance,Mumbai,2004,85000,Petrol,1,Second,10.5 kmpl,1796,157.7,5.0,5.5
 Audi A4 2.0 TDI,Kochi,2013,45330,Diesel,1,First,16.55 kmpl,1968,147.51,5.0,13.19
@@ -1989,6 +2008,7 @@ Toyota Innova 2.5 ZX Diesel 7 Seater,Kochi,2015,59751,Diesel,0,First,12.99 kmpl,
 BMW 7 Series 730Ld Eminence,Kochi,2015,29966,Diesel,1,Second,16.77 kmpl,2993,261.49,5.0,43.6
 Hyundai Sonata Embera 2.0L CRDi MT,Kolkata,2009,65000,Diesel,0,Second,13.6 kmpl,1991,142.0,5.0,4.9
 Renault Duster Adventure Edition,Kochi,2015,75863,Diesel,0,First,19.01 kmpl,1461,108.45,5.0,6.7
+Maruti Wagon R CNG LXI,Mumbai,2013,54000,CNG,0,First,33.54 km/kg,998,67.04,5.0,3.05
 Audi A4 2.0 TDI 177 Bhp Technology Edition,Bangalore,2014,24000,Diesel,1,First,17.11 kmpl,1968,174.33,5.0,25.0
 Jeep Compass 2.0 Longitude,Coimbatore,2018,33218,Diesel,0,First,17.1 kmpl,1956,170.0,5.0,19.05
 Hyundai Verna 1.4 VTVT,Kolkata,2015,33425,Petrol,0,First,17.43 kmpl,1396,105.5,5.0,4.5
@@ -2037,6 +2057,7 @@ Audi Q3 35 TDI Quattro Premium,Pune,2015,110000,Diesel,1,First,15.73 kmpl,1968,1
 Toyota Etios GD,Hyderabad,2015,116000,Diesel,0,Second,23.59 kmpl,1364,67.05,5.0,5.8
 Mahindra XUV500 W8 2WD,Coimbatore,2016,41840,Diesel,0,First,15.1 kmpl,2179,140.0,7.0,13.52
 Toyota Fortuner 4x2 MT TRD Sportivo,Hyderabad,2015,19317,Diesel,0,First,13.0 kmpl,2982,168.7,7.0,24.5
+Tata Indigo CS Emax CNG GLX,Pune,2014,41000,CNG,0,First,24.6 km/kg,1193,55.23,5.0,3.25
 Mercedes-Benz GLE 250d,Kochi,2017,25601,Diesel,1,First,17.9 kmpl,2143,201.15,5.0,56.73
 Hyundai Creta 1.6 CRDi SX,Jaipur,2015,83950,Diesel,0,First,19.67 kmpl,1582,126.2,5.0,9.95
 Honda City 1.5 V AT,Pune,2012,60000,Petrol,1,First,16.8 kmpl,1497,118.0,5.0,5.5
@@ -2152,6 +2173,7 @@ Toyota Etios Cross 1.4L GD,Kochi,2016,36681,Diesel,0,First,23.59 kmpl,1364,67.06
 Mahindra XUV500 W8 2WD,Ahmedabad,2014,67000,Diesel,0,Second,15.1 kmpl,2179,140.0,7.0,7.2
 Hyundai Grand i10 AT Asta,Chennai,2016,18000,Petrol,1,First,18.9 kmpl,1197,82.0,5.0,5.4
 Ford Ecosport 1.5 DV5 MT Titanium Optional,Kochi,2015,56409,Diesel,0,First,22.7 kmpl,1498,89.84,5.0,6.63
+Maruti Ertiga VXI CNG,Mumbai,2016,65263,CNG,0,First,17.5 km/kg,1373,80.46,7.0,7.5
 Honda City i-VTEC CVT ZX,Coimbatore,2018,20300,Petrol,1,First,18.0 kmpl,1497,117.3,5.0,14.21
 Honda City 1.5 V MT,Kolkata,2010,45008,Petrol,0,First,17.0 kmpl,1497,118.0,5.0,3.0
 Maruti Celerio ZXI MT,Kochi,2017,21799,Petrol,0,First,23.1 kmpl,998,67.04,5.0,5.11
@@ -2198,6 +2220,7 @@ Renault Duster 110PS Diesel RxZ,Pune,2012,135000,Diesel,0,First,19.01 kmpl,1461,
 Ford EcoSport 1.5 Diesel Titanium,Delhi,2017,39000,Diesel,0,First,23.0 kmpl,1498,98.96,5.0,8.45
 BMW X6 xDrive30d,Jaipur,2013,45306,Diesel,1,Second,11.2 kmpl,2993,241.0,4.0,42.5
 Toyota Fortuner 2.8 4WD MT,Mumbai,2010,140000,Diesel,0,First,14.24 kmpl,2755,174.5,7.0,10.75
+Hyundai Santro Xing GLS LPG,Pune,2010,55000,LPG,0,Second,13.45 km/kg,1086,62.1,5.0,1.65
 Mahindra Ssangyong Rexton RX7,Kochi,2015,67415,Diesel,1,First,11.18 kmpl,2696,184.0,7.0,11.03
 Maruti Celerio VXI,Kolkata,2016,25562,Petrol,0,First,23.1 kmpl,998,67.04,5.0,3.5
 Hyundai i20 Sportz 1.2,Jaipur,2016,30292,Petrol,0,First,18.6 kmpl,1197,81.83,5.0,6.3
@@ -2241,6 +2264,7 @@ Mercedes-Benz E-Class E 350 d,Coimbatore,2019,9312,Diesel,1,First,18.0 kmpl,2987
 Maruti Celerio LXI,Kolkata,2015,30458,Petrol,0,First,23.1 kmpl,998,67.04,5.0,2.99
 Volkswagen Vento 1.6 Highline,Mumbai,2014,46000,Petrol,0,First,15.04 kmpl,1598,103.2,5.0,4.45
 Tata Nano XT,Pune,2011,50000,Petrol,0,Second,23.9 kmpl,624,37.48,4.0,0.75
+Hyundai Xcent 1.2 Kappa S Option CNG,Delhi,2016,36676,CNG,0,First,25.0 km/kg,1197,81.86,5.0,5.0
 Ford EcoSport 1.5 TDCi Titanium,Chennai,2014,72563,Diesel,0,Second,22.77 kmpl,1498,98.59,5.0,5.0
 Hyundai Elantra 2.0 SX Option AT,Coimbatore,2015,58239,Petrol,1,First,14.62 kmpl,1999,149.92,5.0,9.69
 Chevrolet Enjoy 1.3 TCDi LTZ 8,Coimbatore,2015,57934,Diesel,0,First,18.2 kmpl,1248,73.74,8.0,5.5
@@ -2284,10 +2308,12 @@ Toyota Corolla Altis G MT,Kolkata,2014,27000,Petrol,0,First,14.28 kmpl,1798,138.
 Maruti Grand Vitara 2.4 MT,Kochi,2018,28786,Petrol,0,First,10.4 kmpl,2393,163.5,5.0,9.74
 Mahindra XUV500 W8 1.99 mHawk,Chennai,2011,143354,Diesel,0,Second,16.0 kmpl,1997,140.0,7.0,6.0
 Mini Cooper 3 DOOR S,Mumbai,2013,21000,Petrol,1,First,17.44 kmpl,1998,189.08,4.0,21.5
+Maruti Wagon R CNG LXI,Pune,2014,29202,CNG,0,First,33.54 km/kg,998,67.04,5.0,3.9
 Maruti Ritz VDi,Jaipur,2009,73000,Diesel,0,Second,21.1 kmpl,1248,73.9,5.0,2.35
 Volkswagen Polo Diesel Comfortline 1.2L,Delhi,2012,74000,Diesel,0,Second,22.07 kmpl,1199,73.9,5.0,2.65
 Hyundai i10 Magna,Kochi,2011,65423,Petrol,0,First,20.36 kmpl,1197,78.9,5.0,3.16
 Maruti A-Star Vxi,Jaipur,2009,65000,Petrol,0,Second,19.0 kmpl,998,66.1,5.0,2.05
+Maruti Wagon R LXI CNG,Hyderabad,2013,83875,CNG,0,Second,26.6 km/kg,998,58.16,5.0,2.95
 Maruti Wagon R Stingray LXI,Hyderabad,2014,55277,Petrol,0,First,20.51 kmpl,998,67.04,5.0,3.9
 Honda Mobilio S i DTEC,Coimbatore,2017,50808,Diesel,0,Second,24.2 kmpl,1498,98.6,7.0,6.68
 Hyundai EON Era Plus,Jaipur,2017,52000,Petrol,0,Second,21.1 kmpl,814,55.2,5.0,3.5
@@ -2296,6 +2322,7 @@ Maruti Ciaz VDi Plus SHVS,Delhi,2017,25000,Diesel,0,First,28.09 kmpl,1248,88.5,5
 Mercedes-Benz M-Class ML 250 CDI,Coimbatore,2016,23218,Diesel,1,First,15.26 kmpl,2143,203.2,5.0,45.61
 Skoda Laura Elegance 2.0 TDI CR AT,Pune,2010,84000,Diesel,1,First,20.0 kmpl,1968,138.1,5.0,4.45
 Maruti Vitara Brezza VDi Option,Delhi,2017,40000,Diesel,0,First,24.3 kmpl,1248,88.5,5.0,7.85
+Hyundai Santro Xing GLS LPG,Hyderabad,2011,17000,LPG,0,First,13.45 km/kg,1086,62.1,5.0,3.1
 Hyundai Grand i10 CRDi Sportz,Kolkata,2014,25135,Diesel,0,First,24.0 kmpl,1120,70.0,5.0,3.75
 Maruti Ertiga VDI,Delhi,2017,65000,Diesel,0,First,25.47 kmpl,1248,88.5,7.0,7.65
 Hyundai i20 1.2 Sportz,Ahmedabad,2013,40000,Petrol,0,First,17.0 kmpl,1197,80.0,5.0,4.9
@@ -2345,6 +2372,8 @@ Toyota Camry Hybrid,Chennai,2016,29277,Petrol,1,First,19.16 kmpl,2494,158.2,5.0,
 Ford Figo Diesel ZXI,Kolkata,2011,60000,Diesel,0,First,20.0 kmpl,1399,68.0,5.0,2.25
 Hyundai Xcent 1.2 Kappa S Option,Kolkata,2014,42000,Petrol,0,First,19.1 kmpl,1197,81.86,5.0,3.45
 Hyundai i20 Sportz 1.2,Kochi,2016,61823,Petrol,0,First,18.6 kmpl,1197,81.83,5.0,6.14
+Hyundai i10 Magna LPG,Jaipur,2012,53000,LPG,0,Second,19.2 km/kg,1086,68.05,5.0,2.85
+Tata Indigo CS Emax CNG GLX,Chennai,2015,75000,CNG,0,First,24.6 km/kg,1193,55.23,5.0,3.25
 Maruti Dzire VDI,Hyderabad,2011,110000,Diesel,0,First,28.4 kmpl,1248,73.75,5.0,4.0
 Honda City 1.5 S MT,Kolkata,2010,38446,Petrol,0,First,17.0 kmpl,1497,118.0,5.0,2.59
 Maruti Baleno Delta 1.3,Delhi,2017,33000,Diesel,0,First,27.39 kmpl,1248,74.0,5.0,6.96
@@ -2419,6 +2448,7 @@ Hyundai i10 Sportz AT,Coimbatore,2011,32824,Petrol,1,First,16.95 kmpl,1197,78.9,
 Maruti Swift VXi BSIV,Kochi,2016,19148,Petrol,0,First,16.1 kmpl,1197,85.0,5.0,5.89
 Hyundai Santro Xing GLS,Kolkata,2010,35008,Petrol,0,First,17.92 kmpl,1086,62.1,5.0,1.36
 BMW 6 Series Gran Coupe,Delhi,2013,21000,Diesel,1,Second,17.54 kmpl,2993,313.0,4.0,44.0
+Maruti SX4 Green Vxi (CNG),Mumbai,2014,53000,CNG,0,First,22.1 km/kg,1586,85.7,5.0,3.26
 Hyundai Verna 1.4 VTVT,Bangalore,2016,36000,Petrol,0,First,17.43 kmpl,1396,105.5,5.0,8.0
 Maruti Swift Dzire ZDI,Ahmedabad,2012,56121,Diesel,0,First,23.4 kmpl,1248,74.0,5.0,4.25
 Maruti Swift VDI,Pune,2018,30000,Diesel,0,First,28.4 kmpl,1248,74.0,5.0,6.0
@@ -2533,6 +2563,7 @@ Honda City i VTEC SV,Kolkata,2014,48104,Petrol,0,First,17.4 kmpl,1497,117.3,5.0,
 Hyundai Getz GLS ABS,Pune,2005,91000,Petrol,0,Third,16.8 kmpl,1341,83.0,5.0,0.8
 Hyundai Grand i10 AT Asta,Coimbatore,2015,33931,Petrol,1,Second,18.9 kmpl,1197,82.0,5.0,5.91
 Hyundai Grand i10 1.2 Kappa Sportz Option,Coimbatore,2019,13916,Petrol,0,First,18.9 kmpl,1197,81.86,5.0,6.44
+Maruti Wagon R LXI CNG,Pune,2012,90400,CNG,0,First,26.2 km/kg,998,58.2,5.0,2.9
 Hyundai Grand i10 Sportz,Jaipur,2015,14000,Petrol,0,First,18.9 kmpl,1197,82.0,5.0,4.6
 Hyundai i20 Asta 1.2,Coimbatore,2016,17560,Petrol,0,First,18.6 kmpl,1197,81.83,5.0,7.21
 Renault Duster 85PS Diesel RxL,Pune,2016,60000,Diesel,0,First,19.87 kmpl,1461,83.8,5.0,8.0
@@ -2593,6 +2624,7 @@ Tata Indigo LS,Pune,2006,160000,Diesel,0,First,17.0 kmpl,1405,70.0,5.0,1.0
 Mahindra TUV 300 T8 AMT,Hyderabad,2017,30000,Diesel,1,First,18.49 kmpl,1493,100.0,7.0,8.2
 Audi Q3 35 TDI Quattro Premium Plus,Bangalore,2015,51000,Diesel,1,First,15.17 kmpl,1968,181.0,5.0,27.5
 Maruti Wagon R VXI 1.2,Jaipur,2015,64876,Petrol,0,First,21.5 kmpl,1197,81.8,5.0,3.5
+Maruti Celerio CNG VXI MT,Kochi,2016,70536,CNG,0,First,31.79 km/kg,998,58.33,5.0,4.58
 Maruti Vitara Brezza ZDi Plus Dual Tone,Coimbatore,2017,25299,Diesel,0,First,24.3 kmpl,1248,88.5,5.0,10.34
 Mahindra Scorpio DX 2.6 Turbo 8 Str,Mumbai,2006,89869,Diesel,0,First,12.7 kmpl,2609,116.6,8.0,3.25
 Hyundai Tucson CRDi,Jaipur,2007,103515,Diesel,0,Third,12.6 kmpl,1991,112.0,7.0,5.0
@@ -2828,6 +2860,7 @@ Toyota Innova Crysta 2.8 GX AT 8S,Delhi,2017,18000,Diesel,1,First,11.36 kmpl,275
 Mercedes-Benz New C-Class 200 CDI Elegance,Bangalore,2013,51000,Diesel,0,First,15.8 kmpl,2148,170.0,5.0,18.5
 Maruti Swift VXI BSIII,Chennai,2008,86700,Petrol,0,Second,16.1 kmpl,1298,88.2,5.0,2.4
 Maruti Baleno Alpha 1.3,Kolkata,2016,29000,Diesel,0,First,27.39 kmpl,1248,74.0,5.0,6.5
+Hyundai Santro Xing GL Plus LPG,Hyderabad,2014,56000,LPG,0,First,13.45 km/kg,1086,62.1,5.0,3.2
 Maruti Celerio VXI AT,Mumbai,2015,33000,Petrol,1,First,23.1 kmpl,998,67.04,5.0,3.99
 Ford Ecosport 1.5 DV5 MT Ambiente,Kochi,2014,64394,Diesel,0,First,22.7 kmpl,1498,89.84,5.0,5.45
 Tata Manza Aura Quadrajet,Hyderabad,2010,76000,Diesel,0,First,18.8 kmpl,1248,90.0,5.0,2.7
@@ -2894,6 +2927,7 @@ Maruti Ritz VDi,Pune,2012,64290,Diesel,0,First,23.2 kmpl,1248,73.94,5.0,3.65
 Toyota Fortuner 4x2 Manual,Mumbai,2015,31000,Diesel,0,First,13.0 kmpl,2982,168.5,7.0,19.85
 Jeep Compass 2.0 Limited,Pune,2018,16039,Diesel,0,First,17.1 kmpl,1956,170.0,5.0,18.5
 Hyundai i20 Asta Option 1.2,Hyderabad,2017,19860,Petrol,0,First,18.6 kmpl,1197,81.83,5.0,6.95
+Maruti Wagon R LXI CNG,Delhi,2014,48500,CNG,0,Second,26.6 km/kg,998,58.16,5.0,2.85
 Tata New Safari DICOR 2.2 EX 4x4 BS IV,Jaipur,2012,75391,Diesel,0,First,13.93 kmpl,2179,138.0,7.0,3.75
 Maruti Swift Dzire LDi,Jaipur,2008,78000,Diesel,0,Second,19.3 kmpl,1248,73.9,5.0,2.3
 Tata Indigo eCS eLS BS IV,Kolkata,2016,78000,Diesel,0,First,25.0 kmpl,1396,69.01,5.0,2.3
@@ -2916,6 +2950,7 @@ Honda City V AT,Bangalore,2012,37000,Petrol,1,First,15.6 kmpl,1497,116.3,5.0,6.7
 Ford Endeavour 3.2 Titanium AT 4X4,Coimbatore,2017,61108,Diesel,1,First,10.91 kmpl,3198,197.0,7.0,28.88
 Skoda Superb Elegance 1.8 TSI AT,Kochi,2016,61648,Petrol,1,First,13.7 kmpl,1798,157.75,5.0,14.23
 BMW 3 Series 320d Sport,Mumbai,2012,37000,Diesel,1,Third,22.69 kmpl,1995,190.0,5.0,15.0
+Maruti Ertiga VXI CNG,Mumbai,2013,53000,CNG,0,First,22.8 km/kg,1373,80.9,7.0,5.8
 Maruti Ritz LDi,Jaipur,2013,65000,Diesel,0,First,23.2 kmpl,1248,73.94,5.0,3.75
 Toyota Fortuner 3.0 Diesel,Jaipur,2011,148009,Diesel,0,Second,11.5 kmpl,2982,171.0,7.0,12.75
 Maruti Swift Lxi BSIII,Mumbai,2009,53001,Petrol,0,First,16.1 kmpl,1298,88.2,5.0,1.95
@@ -2979,6 +3014,7 @@ Audi A7 2011-2015 Sportback,Kolkata,2012,24720,Diesel,1,Second,0.0 kmpl,2967,241
 Ford Fiesta 1.4 ZXi Leather,Chennai,2007,75000,Petrol,0,Second,16.6 kmpl,1388,68.0,5.0,2.0
 Hyundai i20 1.4 Asta,Mumbai,2015,57000,Diesel,0,First,22.54 kmpl,1396,88.73,5.0,6.35
 Mercedes-Benz E-Class E250 CDI Avantgrade,Kochi,2015,41057,Diesel,1,First,13.0 kmpl,2143,201.1,5.0,24.63
+Maruti Wagon R LXI CNG,Pune,2012,92000,CNG,0,Second,26.2 km/kg,998,58.2,5.0,3.0
 Ford EcoSport 1.5 TDCi Trend Plus,Chennai,2016,20000,Diesel,0,First,22.77 kmpl,1498,98.59,5.0,7.9
 Hyundai i20 1.2 Magna,Mumbai,2011,52359,Petrol,0,First,18.5 kmpl,1197,80.0,5.0,3.25
 Honda City i VTEC V,Delhi,2016,17000,Petrol,0,Second,17.8 kmpl,1497,117.3,5.0,8.25
@@ -2999,6 +3035,7 @@ Ford Endeavour 3.2 Trend AT 4X4,Jaipur,2016,90000,Diesel,1,First,10.91 kmpl,3198
 Hyundai i20 1.4 Sportz,Coimbatore,2019,32251,Diesel,0,First,22.54 kmpl,1396,88.73,5.0,8.61
 Maruti Zen Estilo LXI BS IV,Mumbai,2009,47000,Petrol,0,First,19.0 kmpl,998,67.1,5.0,1.46
 Maruti Ritz VDi,Mumbai,2011,75308,Diesel,0,Second,21.1 kmpl,1248,73.9,5.0,2.8
+Maruti Alto K10 LXI CNG Optional,Kochi,2018,44202,CNG,0,First,32.26 km/kg,998,58.2,4.0,4.0
 Honda City 1.5 S MT,Mumbai,2014,58000,Petrol,0,First,17.0 kmpl,1497,118.0,5.0,5.47
 Maruti Swift Dzire ZXi,Mumbai,2009,60000,Petrol,0,First,17.5 kmpl,1298,85.8,5.0,2.45
 BMW X1 sDrive 20d Sportline,Hyderabad,2014,45000,Diesel,1,First,17.05 kmpl,1995,184.0,5.0,21.5
@@ -3008,6 +3045,7 @@ Hyundai i10 Sportz AT,Bangalore,2009,60510,Petrol,1,Second,16.95 kmpl,1197,78.9,
 Maruti Baleno Sigma 1.2,Mumbai,2016,8500,Petrol,0,First,21.4 kmpl,1197,83.1,5.0,5.49
 Maruti Vitara Brezza ZDi Plus Dual Tone,Kochi,2017,35981,Diesel,0,First,24.3 kmpl,1248,88.5,5.0,9.51
 Ford Figo Petrol ZXI,Mumbai,2012,23152,Petrol,0,First,15.6 kmpl,1196,70.02,5.0,2.39
+Maruti Wagon R CNG LXI,Delhi,2014,74663,CNG,0,First,33.54 km/kg,998,67.04,5.0,3.25
 Volkswagen Vento Sport 1.2 TSI AT,Mumbai,2014,61529,Petrol,1,First,18.19 kmpl,1197,103.5,5.0,5.65
 Mahindra Xylo D2 BS III,Ahmedabad,2010,91596,Diesel,0,First,14.95 kmpl,2489,93.7,7.0,1.85
 Porsche Cayenne Base,Kochi,2019,14298,Petrol,1,First,13.33 kmpl,2995,340.0,5.0,2.02
@@ -3058,6 +3096,7 @@ Skoda Superb Elegance 1.8 TSI AT,Delhi,2013,82000,Petrol,1,First,13.7 kmpl,1798,
 Maruti Wagon R LXI,Pune,2006,52000,Petrol,0,Second,18.9 kmpl,998,67.1,5.0,2.0
 Volkswagen Polo Petrol Highline 1.2L,Mumbai,2011,20000,Petrol,0,First,16.47 kmpl,1198,73.9,5.0,3.5
 Honda Civic 2010-2013 1.8 S MT,Hyderabad,2011,55000,Petrol,0,First,14.8 kmpl,1799,130.2,5.0,5.0
+Maruti Eeco CNG 5 Seater AC,Ahmedabad,2015,47001,CNG,0,First,20.0 km/kg,1196,63.0,5.0,3.72
 Maruti Wagon R VXI,Chennai,2014,52000,Petrol,0,First,22.5 kmpl,998,67.04,5.0,3.45
 Maruti Swift Dzire VDI,Kolkata,2013,43284,Diesel,0,First,23.4 kmpl,1248,74.0,5.0,4.5
 Hyundai Creta 1.6 SX Plus Petrol Automatic,Coimbatore,2018,23875,Petrol,1,First,13.0 kmpl,1591,121.3,5.0,14.36
@@ -3168,6 +3207,7 @@ Mercedes-Benz New C-Class C 220 CDI Elegance AT,Hyderabad,2010,107000,Diesel,1,F
 Honda City i VTEC CVT VX,Delhi,2015,51000,Petrol,1,First,18.0 kmpl,1497,117.3,5.0,7.9
 Toyota Innova 2.5 GX 7 STR,Pune,2010,140000,Diesel,0,Third,12.8 kmpl,2494,102.0,7.0,6.25
 Chevrolet Beat LT,Pune,2011,48000,Petrol,0,Second,18.6 kmpl,1199,79.4,5.0,1.8
+Maruti Wagon R LXI CNG,Delhi,2013,62000,CNG,0,First,26.6 km/kg,998,58.16,5.0,2.8
 Honda Jazz 1.2 S i VTEC,Mumbai,2015,31000,Petrol,0,First,18.7 kmpl,1199,88.7,5.0,4.9
 Nissan Micra XL Primo,Jaipur,2010,75055,Petrol,0,First,18.06 kmpl,1198,75.0,5.0,2.25
 Maruti Ciaz AT ZXi,Coimbatore,2017,51210,Petrol,1,First,19.12 kmpl,1373,91.1,5.0,8.89
@@ -3325,6 +3365,7 @@ Hyundai Grand i10 1.2 Kappa Asta,Bangalore,2014,61325,Petrol,0,First,18.9 kmpl,1
 Maruti Swift Dzire VXI,Kolkata,2014,33000,Petrol,0,First,19.1 kmpl,1197,85.8,5.0,3.99
 BMW 5 Series 2003-2012 530d,Coimbatore,2016,18090,Diesel,1,First,16.2 kmpl,2993,258.0,5.0,45.73
 Ford Ecosport 1.5 DV5 MT Ambiente,Kochi,2014,71390,Diesel,0,First,22.7 kmpl,1498,89.84,5.0,5.27
+Maruti Wagon R LXI CNG,Mumbai,2014,41000,CNG,0,First,26.2 km/kg,998,58.2,5.0,3.5
 Honda City i DTec V,Ahmedabad,2016,67000,Diesel,0,First,26.0 kmpl,1498,98.6,5.0,7.25
 Tata Indigo LS,Chennai,2008,99000,Diesel,0,Second,17.0 kmpl,1405,70.0,5.0,1.6
 Renault Duster 110PS Diesel RxL,Pune,2014,142000,Diesel,0,Second,19.01 kmpl,1461,108.45,5.0,6.0
@@ -3380,6 +3421,7 @@ Mitsubishi Pajero 4X4 LHD,Bangalore,2012,155566,Diesel,0,Second,9.5 kmpl,2835,11
 Honda Brio EX MT,Chennai,2013,42320,Petrol,0,First,19.4 kmpl,1198,86.8,5.0,2.9
 Hyundai i20 Asta Option 1.4 CRDi,Coimbatore,2017,24153,Diesel,0,Second,22.54 kmpl,1396,88.73,5.0,9.18
 Hyundai Creta 1.6 SX Plus Petrol Automatic,Mumbai,2016,27000,Petrol,1,First,13.0 kmpl,1591,121.3,5.0,11.45
+Maruti Alto Green LXi (CNG),Hyderabad,2012,92000,CNG,0,Second,26.83 km/kg,796,38.4,5.0,2.1
 Honda Amaze S i-VTEC,Kochi,2017,61795,Petrol,0,First,17.8 kmpl,1198,86.7,5.0,5.53
 Mahindra KUV 100 mFALCON G80 K6 Plus,Chennai,2016,13500,Petrol,0,First,18.15 kmpl,1198,82.0,6.0,3.75
 Honda City i-VTEC CVT VX,Pune,2018,4500,Petrol,1,First,18.0 kmpl,1497,117.3,5.0,12.5
@@ -3417,6 +3459,7 @@ Honda Amaze S AT i-Vtech,Mumbai,2014,39000,Petrol,1,First,15.5 kmpl,1198,86.7,5.
 Honda City i-DTEC ZX,Pune,2017,42000,Diesel,0,First,25.6 kmpl,1498,98.6,5.0,12.0
 Tata Indigo GLE,Chennai,2008,73000,Petrol,0,First,14.4 kmpl,1396,65.0,5.0,0.8
 Hyundai Grand i10 1.2 CRDi Sportz,Chennai,2018,48000,Diesel,0,First,24.0 kmpl,1186,73.97,5.0,5.95
+Maruti Alto 800 2016-2019 CNG LXI,Pune,2015,18000,CNG,0,First,33.44 km/kg,796,40.3,4.0,3.0
 Hyundai Verna 1.4 CX VTVT,Kolkata,2014,19000,Petrol,0,First,17.43 kmpl,1396,105.5,5.0,5.25
 Toyota Innova Crysta 2.4 VX MT,Coimbatore,2019,33598,Diesel,0,First,13.68 kmpl,2393,147.8,7.0,22.2
 BMW X1 sDrive20d,Jaipur,2012,63000,Diesel,1,First,17.05 kmpl,1995,184.0,5.0,13.5
@@ -3449,6 +3492,7 @@ Maruti Dzire AMT ZDI Plus,Chennai,2017,19000,Diesel,1,First,28.4 kmpl,1248,73.75
 Hyundai Verna 1.6 SX VTVT,Mumbai,2011,58000,Petrol,0,Second,17.01 kmpl,1591,121.3,5.0,4.0
 Jeep Compass 2.0 Longitude,Kochi,2018,42203,Diesel,0,First,17.1 kmpl,1956,170.0,5.0,19.46
 Hyundai Sonata Embera 2.0L CRDi AT,Hyderabad,2009,94000,Diesel,1,First,11.4 kmpl,1991,142.0,5.0,5.25
+Maruti Eeco 5 STR With AC Plus HTR CNG,Delhi,2013,52000,CNG,0,Second,15.1 km/kg,1196,73.0,5.0,2.6
 Tata Nexon 1.5 Revotorq XZ Plus Dual Tone,Kolkata,2018,4900,Diesel,0,First,21.5 kmpl,1497,108.5,5.0,9.22
 Hyundai EON Era Plus,Jaipur,2013,70000,Petrol,0,First,21.1 kmpl,814,55.2,5.0,1.8
 BMW 5 Series 2013-2017 530d M Sport,Kochi,2015,65266,Diesel,1,First,14.69 kmpl,2993,258.0,5.0,31.75
@@ -3456,6 +3500,7 @@ Maruti Ertiga VDI,Delhi,2014,54569,Diesel,0,First,20.77 kmpl,1248,88.76,7.0,5.99
 Honda Amaze E i-Vtech,Kochi,2015,51361,Petrol,0,First,18.0 kmpl,1198,86.7,5.0,4.94
 Ford Fiesta 1.4 Duratec ZXI,Jaipur,2007,125000,Petrol,0,Third,16.6 kmpl,1388,68.0,5.0,1.5
 Honda Civic 2006-2010 1.8 V MT,Bangalore,2008,66000,Petrol,0,Third,13.5 kmpl,1799,130.0,5.0,3.25
+Maruti Wagon R LX DUO BSIII,Hyderabad,2007,65047,LPG,0,First,17.3 km/kg,1061,57.5,5.0,1.95
 Maruti Ertiga ZDI,Delhi,2014,22281,Diesel,0,First,20.77 kmpl,1248,88.8,7.0,6.5
 Hyundai Grand i10 CRDi Sportz,Delhi,2013,63210,Diesel,0,First,24.0 kmpl,1120,70.0,5.0,3.71
 Hyundai Xcent 1.2 VTVT E Plus,Pune,2018,31000,Petrol,0,First,20.14 kmpl,1197,81.86,5.0,5.0
@@ -3578,6 +3623,7 @@ Volkswagen Polo Diesel Comfortline 1.2L,Delhi,2013,77445,Diesel,0,First,22.07 km
 Ford EcoSport 1.5 Petrol Titanium Plus AT,Pune,2017,14000,Petrol,1,First,14.8 kmpl,1497,121.36,5.0,9.99
 Toyota Innova 2.5 G (Diesel) 7 Seater BS IV,Kolkata,2012,85122,Diesel,0,First,12.99 kmpl,2494,100.0,7.0,8.2
 Honda City 1.5 EXI,Jaipur,2005,123000,Petrol,0,Third,13.0 kmpl,1493,100.0,5.0,1.1
+Maruti SX4 Green Vxi (CNG),Kochi,2015,61000,CNG,0,First,22.1 km/kg,1586,85.7,5.0,3.89
 Maruti Alto 800 2016-2019 LXI Optional,Chennai,2015,63714,Petrol,0,First,24.7 kmpl,796,47.3,5.0,2.45
 Mercedes-Benz M-Class ML 320 CDI,Pune,2009,53000,Diesel,1,First,8.7 kmpl,2987,224.34,5.0,13.75
 Maruti Swift Dzire LDI,Kolkata,2017,60000,Diesel,0,First,26.59 kmpl,1248,74.0,5.0,3.0
@@ -3721,6 +3767,7 @@ Ford Ecosport 1.5 DV5 MT Titanium,Delhi,2014,60000,Diesel,0,First,22.7 kmpl,1498
 Hyundai i20 Sportz 1.2,Kolkata,2015,35000,Petrol,0,First,18.6 kmpl,1197,81.83,5.0,4.43
 Mercedes-Benz CLA 200 CDI Sport,Kochi,2016,32345,Diesel,1,First,17.9 kmpl,2143,136.0,5.0,24.51
 Hyundai EON Magna,Ahmedabad,2014,47000,Petrol,0,First,22.0 kmpl,814,55.0,5.0,2.65
+Maruti Alto 800 2016-2019 CNG LXI,Delhi,2012,65537,CNG,0,Second,33.44 km/kg,796,40.3,4.0,2.1
 Toyota Etios G Safety,Delhi,2011,36000,Petrol,0,First,17.6 kmpl,1496,88.7,5.0,3.2
 Maruti Swift Dzire Tour LDI,Chennai,2016,75000,Diesel,0,First,23.4 kmpl,1248,74.0,5.0,4.25
 Maruti Alto LXi,Kolkata,2008,38000,Petrol,0,First,19.7 kmpl,796,46.3,5.0,1.1
@@ -3750,6 +3797,7 @@ Maruti Swift Dzire VDi,Hyderabad,2010,130000,Diesel,0,First,19.3 kmpl,1248,73.9,
 Volkswagen Vento Petrol Highline,Pune,2013,65000,Petrol,0,Second,15.04 kmpl,1598,103.6,5.0,4.5
 Audi A4 2.0 TDI,Bangalore,2013,76000,Diesel,1,Second,16.55 kmpl,1968,147.51,5.0,18.25
 Maruti Ertiga LXI,Ahmedabad,2012,28002,Petrol,0,First,16.02 kmpl,1373,93.7,7.0,5.75
+Toyota Corolla Altis 1.8 G CNG,Mumbai,2010,63000,CNG,0,Second,14.53 km/kg,1798,138.0,5.0,3.35
 Maruti 800 AC,Jaipur,2010,70000,Petrol,0,Second,16.1 kmpl,796,37.0,4.0,0.9
 Honda City 1.5 V MT,Hyderabad,2011,66276,Petrol,0,First,17.0 kmpl,1497,118.0,5.0,5.5
 Maruti Swift Dzire VXI,Kolkata,2014,45000,Petrol,0,First,19.1 kmpl,1197,85.8,5.0,3.99
@@ -3941,6 +3989,7 @@ Maruti Wagon R VXI BS IV,Pune,2015,25200,Petrol,0,First,18.9 kmpl,998,67.1,5.0,3
 Audi A4 3.0 TDI Quattro,Coimbatore,2015,35463,Diesel,1,First,14.94 kmpl,2967,241.4,5.0,25.02
 Toyota Camry Hybrid 2.5,Coimbatore,2017,23249,Petrol,1,First,19.16 kmpl,2487,175.67,5.0,26.11
 Hyundai i20 Asta 1.2,Coimbatore,2016,40310,Petrol,0,First,18.6 kmpl,1197,81.83,5.0,7.09
+Maruti SX4 Green Vxi (CNG),Delhi,2012,82069,CNG,0,First,21.4 km/kg,1586,103.3,5.0,2.65
 Hyundai Grand i10 1.2 Kappa Asta,Delhi,2018,10000,Petrol,0,First,18.9 kmpl,1197,81.86,5.0,6.5
 Volkswagen Polo Diesel Trendline 1.2L,Chennai,2012,94000,Diesel,0,First,22.07 kmpl,1199,73.9,5.0,4.5
 BMW X5 xDrive 30d M Sport,Chennai,2016,45000,Diesel,1,First,15.97 kmpl,2993,258.0,5.0,57.0
@@ -3983,6 +4032,7 @@ Hyundai i10 Magna 1.2 iTech SE,Kolkata,2012,31000,Petrol,0,First,20.36 kmpl,1197
 Toyota Etios Liva V,Mumbai,2013,8950,Petrol,0,First,17.71 kmpl,1197,78.9,5.0,3.55
 Mercedes-Benz E-Class 2015-2017 E250 Edition E,Coimbatore,2017,43477,Diesel,1,First,15.0 kmpl,2143,204.0,5.0,38.15
 Hyundai EON D Lite Plus,Ahmedabad,2015,20000,Petrol,0,First,21.1 kmpl,814,55.2,5.0,2.66
+Maruti Wagon R CNG LXI,Mumbai,2014,47200,CNG,0,First,33.54 km/kg,998,67.04,5.0,2.85
 Honda City 1.5 S MT,Bangalore,2011,60000,Petrol,0,First,17.0 kmpl,1497,118.0,5.0,4.95
 Mercedes-Benz S-Class 280 AT,Chennai,2003,111000,Petrol,1,First,13.0 kmpl,2987,210.0,5.0,6.5
 Tata Indigo CS eVX,Pune,2016,52000,Diesel,0,Second,25.0 kmpl,1396,69.01,5.0,2.4
@@ -4248,6 +4298,7 @@ Honda City 1.5 S MT,Pune,2013,46000,Petrol,0,First,17.0 kmpl,1497,118.0,5.0,5.1
 Maruti Wagon R LXI,Mumbai,2010,12000,Petrol,0,First,22.5 kmpl,998,67.04,5.0,2.45
 Skoda Superb 2.8 V6 AT,Kolkata,2005,13002,Petrol,1,First,9.3 kmpl,2771,193.1,5.0,3.25
 Honda City i DTEC SV,Kolkata,2014,26000,Diesel,0,First,26.0 kmpl,1498,98.6,5.0,5.5
+Maruti Wagon R LXI CNG,Kochi,2014,68365,CNG,0,First,26.6 km/kg,998,58.16,5.0,3.77
 Mercedes-Benz M-Class ML 350 4Matic,Coimbatore,2016,27833,Diesel,1,First,0.0 kmpl,2987,165.0,5.0,49.24
 Maruti Alto 800 LXI,Kochi,2016,51639,Petrol,0,First,22.74 kmpl,796,47.3,5.0,3.04
 Hyundai i20 Magna 1.2,Delhi,2015,21000,Petrol,0,First,18.6 kmpl,1197,81.83,5.0,4.9
@@ -4437,6 +4488,7 @@ Ford Endeavour 3.0L 4X4 AT,Hyderabad,2012,91696,Diesel,1,First,11.4 kmpl,2953,15
 Ford Ikon 1.3 Flair,Kochi,2009,66484,Petrol,0,First,13.8 kmpl,1299,70.0,5.0,1.65
 BMW X1 sDrive 20d xLine,Coimbatore,2019,15456,Diesel,1,First,20.68 kmpl,1995,190.0,5.0,36.64
 Mercedes-Benz E-Class 2009-2013 E250 CDI Classic,Mumbai,2011,55000,Diesel,1,Second,14.21 kmpl,2143,203.0,5.0,16.0
+Maruti Eeco 5 STR With AC Plus HTR CNG,Kochi,2019,21112,CNG,0,First,15.1 km/kg,1196,73.0,5.0,5.38
 Honda Amaze S i-Dtech,Ahmedabad,2014,61297,Diesel,0,First,25.8 kmpl,1498,98.6,5.0,4.35
 Maruti Zen LXi - BS III,Hyderabad,2006,80000,Petrol,0,Second,17.3 kmpl,993,60.0,5.0,1.2
 Hyundai i20 Magna,Jaipur,2013,59000,Petrol,0,Second,18.5 kmpl,1197,80.0,5.0,4.1
@@ -4595,6 +4647,7 @@ Maruti Ertiga VXI,Mumbai,2014,69192,Petrol,0,First,16.02 kmpl,1373,93.7,7.0,6.25
 Volkswagen Vento Diesel Highline,Chennai,2012,55000,Diesel,0,First,20.54 kmpl,1598,103.6,5.0,4.9
 Honda City 1.5 GXI,Mumbai,2005,81000,Petrol,0,Second,12.8 kmpl,1493,100.0,5.0,1.1
 Volkswagen Polo Petrol Trendline 1.2L,Kochi,2016,36733,Petrol,0,First,16.47 kmpl,1198,73.9,5.0,4.72
+Maruti Alto 800 2016-2019 CNG LXI,Kochi,2017,24310,CNG,0,First,33.44 km/kg,796,40.3,4.0,3.7
 Mercedes-Benz GLA Class 200 CDI,Mumbai,2016,43022,Diesel,1,First,17.9 kmpl,2143,136.0,5.0,24.85
 Hyundai Santa Fe 4X2,Jaipur,2013,74000,Diesel,0,First,14.66 kmpl,2199,194.3,7.0,12.25
 Maruti Swift VDI,Kolkata,2014,47000,Diesel,0,First,22.9 kmpl,1248,74.0,5.0,3.9
@@ -4741,6 +4794,7 @@ Volkswagen Jetta 2007-2011 2.0 TDI Trendline,Ahmedabad,2013,68008,Diesel,0,Secon
 Mahindra TUV 300 2015-2019 T8,Coimbatore,2017,22251,Diesel,0,First,18.49 kmpl,1493,100.0,7.0,8.75
 Ford Ecosport 1.5 Ti VCT MT Titanium,Chennai,2013,55000,Petrol,0,Second,15.8 kmpl,1499,110.0,5.0,5.2
 Hyundai Verna 1.6 SX VTVT (O),Kochi,2017,19387,Petrol,0,First,17.1 kmpl,1591,121.3,5.0,8.42
+Maruti Wagon R LXI CNG,Pune,2014,58000,CNG,0,First,26.6 km/kg,998,58.16,5.0,3.0
 Hyundai i20 Sportz 1.2,Mumbai,2016,24001,Petrol,0,First,18.6 kmpl,1197,81.83,5.0,5.75
 Audi A4 New 2.0 TDI Multitronic,Kolkata,2008,17000,Diesel,1,First,15.2 kmpl,1968,140.8,5.0,9.75
 Nissan Micra Active XV S,Delhi,2015,28500,Petrol,0,First,19.49 kmpl,1198,67.04,5.0,3.5
@@ -4822,6 +4876,7 @@ Toyota Etios Liva GD SP,Hyderabad,2015,69189,Diesel,0,First,23.59 kmpl,1364,67.0
 Nissan Terrano XV Premium 110 PS,Mumbai,2014,40206,Diesel,0,First,19.01 kmpl,1461,108.5,5.0,7.22
 BMW X3 xDrive 20d xLine,Kochi,2017,36723,Diesel,1,First,18.56 kmpl,1995,190.0,5.0,32.57
 Hyundai i20 1.2 Magna,Mumbai,2010,57500,Petrol,0,First,18.5 kmpl,1197,80.0,5.0,2.75
+Maruti Eeco 5 STR With AC Plus HTR CNG,Kochi,2018,43912,CNG,0,First,15.1 km/kg,1196,73.0,5.0,4.33
 Ford Fiesta EXi 1.4 TDCi Ltd,Hyderabad,2011,52000,Diesel,0,First,17.8 kmpl,1399,68.0,5.0,3.75
 Honda City 1.5 V AT,Kochi,2014,60952,Petrol,1,First,16.8 kmpl,1497,118.0,5.0,5.91
 Maruti Swift VDI BSIV,Chennai,2013,87192,Diesel,0,First,25.2 kmpl,1248,74.0,5.0,4.35
@@ -4992,6 +5047,7 @@ Maruti Alto 800 2016-2019 VXI,Kolkata,2016,4000,Petrol,0,First,24.7 kmpl,796,47.
 BMW 5 Series 530d M Sport,Chennai,2010,58000,Diesel,1,First,18.59 kmpl,2993,265.0,5.0,11.75
 Hyundai EON D Lite Plus,Kochi,2016,29832,Petrol,0,First,21.1 kmpl,814,55.2,5.0,3.29
 Maruti Swift Dzire VDI,Chennai,2016,71156,Diesel,0,First,26.59 kmpl,1248,74.0,5.0,6.5
+Maruti Celerio CNG VXI MT,Delhi,2015,64687,CNG,0,First,31.79 km/kg,998,58.33,5.0,3.8
 Audi A4 2.0 TDI,Hyderabad,2011,54000,Diesel,1,First,16.55 kmpl,1968,147.51,5.0,18.0
 Skoda Superb Elegance 1.8 TSI AT,Bangalore,2009,75000,Petrol,1,Second,13.7 kmpl,1798,157.75,5.0,4.95
 Tata Zest Revotron 1.2T XM,Kochi,2015,39208,Petrol,0,First,17.57 kmpl,1193,88.7,5.0,4.52
@@ -5313,6 +5369,7 @@ Maruti Zen Estilo LXI BSIII,Hyderabad,2012,59293,Petrol,0,First,18.2 kmpl,998,67
 Maruti Swift Dzire VDI,Mumbai,2012,80753,Diesel,0,Second,23.4 kmpl,1248,74.0,5.0,4.5
 Toyota Fortuner 4x2 Manual,Delhi,2015,40000,Diesel,0,Second,13.0 kmpl,2982,168.5,7.0,18.75
 Maruti Swift VDI,Pune,2014,103000,Diesel,0,Second,28.4 kmpl,1248,74.0,5.0,5.25
+Maruti Wagon R Duo LX BSIII,Hyderabad,2012,72389,LPG,0,First,26.2 km/kg,998,58.2,5.0,3.2
 Maruti Dzire LDI,Pune,2017,48000,Diesel,0,First,28.4 kmpl,1248,73.75,5.0,6.0
 Hyundai Grand i10 Asta,Kolkata,2014,41000,Petrol,0,First,18.9 kmpl,1197,82.0,5.0,3.14
 Renault KWID RXL,Jaipur,2016,26000,Petrol,0,First,25.17 kmpl,799,53.3,5.0,2.55
@@ -5458,6 +5515,7 @@ Skoda Rapid Ultima 1.6 MPI Ambition Plus,Bangalore,2013,66700,Petrol,0,First,15.
 Toyota Fortuner 4x4 MT,Jaipur,2014,122000,Diesel,0,Second,12.55 kmpl,2982,168.5,7.0,16.0
 Hyundai Creta 1.6 CRDi SX,Mumbai,2016,29000,Diesel,0,First,19.67 kmpl,1582,126.2,5.0,12.6
 Hyundai i20 Magna Optional 1.2,Kochi,2014,42315,Petrol,0,First,18.5 kmpl,1197,82.9,5.0,4.79
+Maruti Wagon R LXI CNG,Mumbai,2015,22001,CNG,0,First,26.6 km/kg,998,58.16,5.0,3.65
 Honda City i DTEC V,Kochi,2016,84580,Diesel,0,First,26.0 kmpl,1498,98.6,5.0,6.83
 Maruti 800 Std,Jaipur,2002,75000,Petrol,0,First,16.1 kmpl,796,37.0,4.0,0.51
 Ford Ikon 1.3 Flair,Pune,2006,85000,Petrol,0,Second,13.8 kmpl,1299,70.0,5.0,0.69
@@ -5512,6 +5570,7 @@ Chevrolet Cruze LTZ,Coimbatore,2018,52073,Diesel,0,Second,18.3 kmpl,1991,147.9,5
 Hyundai i20 1.4 Sportz,Kochi,2018,40175,Diesel,0,Second,22.54 kmpl,1396,88.73,5.0,6.36
 Honda BRV i-VTEC V CVT,Mumbai,2017,16503,Petrol,1,First,16.0 kmpl,1497,117.3,7.0,9.5
 Hyundai Xcent 1.2 Kappa SX,Kochi,2017,15029,Petrol,0,First,19.1 kmpl,1197,82.0,5.0,6.05
+Maruti Alto 800 CNG LXI,Mumbai,2013,26200,CNG,0,First,30.46 km/kg,796,47.3,5.0,2.15
 Hyundai Grand i10 CRDi Sportz,Hyderabad,2015,76362,Diesel,0,First,24.0 kmpl,1120,70.0,5.0,5.5
 Maruti Alto LXi,Kolkata,2007,18700,Petrol,0,Second,19.7 kmpl,796,46.3,5.0,1.25
 Toyota Innova 2.5 VX (Diesel) 7 Seater,Coimbatore,2015,67585,Diesel,0,First,12.99 kmpl,2494,100.6,7.0,11.99
@@ -5548,6 +5607,7 @@ Hyundai Santa Fe 4WD AT,Coimbatore,2016,45794,Diesel,1,First,13.01 kmpl,2199,194
 Chevrolet Cruze LTZ AT,Hyderabad,2013,57352,Diesel,1,First,14.39 kmpl,1998,163.7,5.0,6.5
 Mercedes-Benz E-Class 2015-2017 E250 Edition E,Coimbatore,2018,41467,Diesel,1,First,15.0 kmpl,2143,204.0,5.0,37.98
 Hyundai Santro Xing GLS,Mumbai,2009,42000,Petrol,0,First,17.92 kmpl,1086,62.1,5.0,1.45
+Maruti Wagon R LXI CNG,Delhi,2014,62549,CNG,0,First,26.6 km/kg,998,58.16,5.0,2.95
 Maruti Ciaz VDi Plus SHVS,Hyderabad,2015,67048,Diesel,0,First,28.09 kmpl,1248,88.5,5.0,7.9
 Honda City i-VTEC V,Kochi,2018,11732,Petrol,0,First,17.4 kmpl,1497,117.3,5.0,10.07
 Nissan Terrano XL Plus ICC WT20 SE,Mumbai,2016,37000,Diesel,0,First,20.45 kmpl,1461,83.8,5.0,6.5
@@ -5672,10 +5732,12 @@ Ford Endeavour 4x2 XLT Limited Edition,Pune,2009,180000,Diesel,0,First,10.9 kmpl
 Maruti Vitara Brezza ZDi Plus Dual Tone,Kochi,2017,21248,Diesel,0,First,24.3 kmpl,1248,88.5,5.0,9.44
 Mercedes-Benz E-Class 200 Kompressor Elegance,Delhi,2014,40000,Petrol,1,First,10.5 kmpl,1796,157.7,5.0,24.0
 Mercedes-Benz C-Class Progressive C 220d,Ahmedabad,2019,4000,Diesel,1,First,0.0 kmpl,1950,194.0,5.0,35.0
+Maruti Ertiga VXI CNG,Mumbai,2017,23700,CNG,0,First,17.5 km/kg,1373,80.46,7.0,8.25
 Audi A4 2.0 TDI Celebration Edition,Delhi,2011,57000,Diesel,1,Second,16.55 kmpl,1968,147.51,5.0,9.75
 Hyundai Grand i10 Asta,Kolkata,2014,37000,Petrol,0,First,18.9 kmpl,1197,82.0,5.0,3.45
 Mitsubishi Pajero Sport 4X4,Jaipur,2014,70000,Diesel,0,Second,13.5 kmpl,2477,175.56,7.0,11.85
 Mercedes-Benz New C-Class C 250 CDI Avantgarde,Coimbatore,2012,92469,Diesel,1,Second,19.71 kmpl,2143,201.15,5.0,16.14
+Maruti Wagon R LXI CNG,Pune,2015,55000,CNG,0,First,26.6 km/kg,998,58.16,5.0,3.7
 Maruti Alto K10 VXI AGS,Ahmedabad,2017,20000,Petrol,1,First,24.07 kmpl,998,67.1,5.0,4.0
 Hyundai i20 Sportz 1.2,Delhi,2015,42000,Petrol,0,Second,18.6 kmpl,1197,81.83,5.0,5.8
 Maruti Swift Dzire VDI,Kolkata,2014,28000,Diesel,0,First,23.4 kmpl,1248,74.0,5.0,4.65
@@ -5695,6 +5757,7 @@ Renault Duster 110PS Diesel RXZ Optional with Nav,Mumbai,2013,29000,Diesel,0,Fir
 Maruti Swift Dzire Vdi BSIV,Mumbai,2013,65000,Diesel,0,Second,19.3 kmpl,1248,73.9,5.0,4.99
 Mercedes-Benz GLC 220,Coimbatore,2017,50794,Diesel,1,First,17.9 kmpl,2143,170.0,5.0,43.3
 Ford Ecosport 1.5 DV5 MT Titanium Optional,Mumbai,2014,59000,Diesel,0,First,22.7 kmpl,1498,89.84,5.0,6.5
+Maruti Wagon R LXI CNG,Mumbai,2012,72000,CNG,0,First,26.2 km/kg,998,58.2,5.0,2.25
 Maruti Ciaz 1.4 AT Alpha,Hyderabad,2017,15234,Petrol,1,First,19.12 kmpl,1373,91.1,5.0,9.95
 Ford Ecosport 1.5 DV5 MT Titanium,Mumbai,2015,44000,Diesel,0,First,22.7 kmpl,1498,89.84,5.0,7.35
 Tata Zest Quadrajet 1.3 75PS XE,Hyderabad,2016,125000,Diesel,0,First,22.95 kmpl,1248,74.0,5.0,4.6
@@ -5726,6 +5789,7 @@ Maruti Ertiga VXI,Mumbai,2012,52500,Petrol,0,Second,16.02 kmpl,1373,93.7,7.0,5.2
 Maruti Alto 800 2016-2019 LXI,Chennai,2016,5700,Petrol,0,First,24.7 kmpl,796,47.3,5.0,2.8
 Hyundai i20 Magna 1.4 CRDi (Diesel),Kochi,2014,53340,Diesel,0,First,21.9 kmpl,1396,88.76,5.0,4.35
 Ford Ecosport 1.5 DV5 MT Titanium,Kolkata,2014,57000,Diesel,0,First,22.7 kmpl,1498,89.84,5.0,5.49
+Maruti Alto K10 LXI CNG,Pune,2015,59525,CNG,0,Second,32.26 km/kg,998,58.2,4.0,3.1
 Volkswagen Vento 1.5 TDI Highline,Bangalore,2014,58000,Diesel,0,First,20.34 kmpl,1498,103.2,5.0,6.5
 Mahindra Scorpio VLX 2WD Airbag BSIII,Bangalore,2011,73000,Diesel,0,First,12.05 kmpl,2179,120.0,8.0,6.4
 Ford Figo Aspire 1.5 TDCi Titanium Plus,Kochi,2016,33554,Diesel,0,First,25.83 kmpl,1498,99.0,5.0,6.22
@@ -5785,6 +5849,7 @@ Hyundai Elantra SX,Mumbai,2014,55619,Petrol,0,First,16.3 kmpl,1797,147.5,5.0,8.3
 Honda City 1.5 E MT,Pune,2009,60000,Petrol,0,Third,17.0 kmpl,1497,118.0,5.0,3.25
 Renault Duster 85PS Diesel RxL Explore,Pune,2015,30000,Diesel,0,First,19.87 kmpl,1461,83.8,5.0,7.75
 Jaguar XF 2.2 Litre Luxury,Kochi,2016,31150,Diesel,1,First,16.36 kmpl,2179,187.7,5.0,30.54
+Maruti Wagon R Duo Lxi,Jaipur,2010,70000,LPG,0,First,26.2 km/kg,998,58.2,5.0,2.27
 Volkswagen Polo IPL II 1.2 Petrol Highline,Pune,2010,70290,Petrol,0,Second,17.24 kmpl,1198,73.9,5.0,2.96
 Tata Bolt Revotron XT,Chennai,2016,10000,Petrol,0,First,17.57 kmpl,1193,88.7,5.0,4.0
 Hyundai i20 Sportz 1.2,Bangalore,2014,68010,Petrol,0,Second,18.5 kmpl,1197,82.85,5.0,5.25
