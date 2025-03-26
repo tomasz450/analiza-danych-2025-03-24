@@ -6,6 +6,8 @@
 
 ## Polecane książki :)
 
+(https://libgen.is/)
+
 
 - Data science od podstaw. Analiza danych w Pythonie. Wydanie II
 
